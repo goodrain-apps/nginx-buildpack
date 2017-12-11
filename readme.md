@@ -1,4 +1,4 @@
-# buildpack for nginx on debian:stretch-slim
+# Buildpack for nginx based on debian:stretch-slim
 
 ## 说明
 
